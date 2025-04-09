@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 
 <!-- Cabeçalho com estilo neon/cyberpunk usando o Capsule Render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lucino%20De%20Campos&fontSize=50&fontColor=ffffff" alt="Lucino De Campos - Front-End Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=&color=0&text=ALUCINADO&textBg=false&section=header&fontColor=ff1493&animation=twinkling&stroke=ff1493&desc=Front-End%20Developer%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20Git&descAlignY=70&descSize=20&fontAlignY=30&strokeWidth=2" alt="Lucino De Campos - Front-End Developer" />
 </p>
 
-<!-- Título com estilo chamativo -->
-<h1 align="center" style="color:#00fffc;">Olá, eu sou o Lucino! 👾</h1>
-<p align="center">
-  <em>Desenvolvedor Front-End | Tecnológico | Gamer | Anime Lover | Cyberpunk</em>
-</p>
 
 ---
 
@@ -30,17 +25,12 @@ Here are some ideas to get you started:
 ### 🛠️ Tecnologias e Ferramentas
 - **HTML5** | **CSS3** | **JavaScript**
 - **Git** | **GitHub**
-- <!-- Adicione outras tecnologias que dominar ou esteja estudando -->
 
 ---
 
 <!-- Seção de Projetos em Destaque -->
-### 🚀 Projetos em Destaque
-Confira alguns dos meus projetos mais recentes:
-- [**Portfólio Front-End**](https://seusite.com) - Meu portfólio online com design responsivo e toques de neon.
-- [**Jogo da Velha em JavaScript**](https://github.com/ALucin4do/jogo-da-velha) - Um projeto divertido e interativo feito com JavaScript.
-- [**Clone da Homepage do Google**](https://github.com/ALucin4do/clone-google) - Desafio prático para demonstrar habilidades em HTML e CSS.
-
+### 🚀 Meu Portifólio
+- [**Portfólio**](https://alucinado-dev.vercel.app)
 ---
 
 <!-- Seção sobre você -->

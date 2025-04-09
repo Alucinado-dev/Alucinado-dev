@@ -25,17 +25,18 @@ Here are some ideas to get you started:
 ### 🛠️ Tecnologias e Ferramentas
 - **HTML5** | **CSS3** | **JavaScript**
 - **Git** | **GitHub**
+- **Auto Ditada**
 
 ---
 
 <!-- Seção de Projetos em Destaque -->
-### 🚀 Meu Portifólio
-- [**Portfólio**](https://alucinado-dev.vercel.app)
+### <img width='50px' height='50px' src='/img/ALucin4do-logo.png'> [**🚀 Meu Portifólio**](https://alucinado-dev.vercel.app)
 ---
 
 <!-- Seção sobre você -->
 ### 📚 Sobre Mim
-Sou apaixonado por tecnologia, games e cultura pop. Além de codificar, curto assistir animes e explorar estilos visuais como o neon e o cyberpunk – que me inspiram a dar um toque único aos meus projetos. Estou sempre aprendendo e em busca de desafios na área de desenvolvimento front-end.
+Sou apaixonado por tecnologia, games, animes e cultura pop. aprecio muito arte digital e adoro incluir em meus projetos, assim
+como a estética neon e cyberpunk. Gosto também de um bom papo sobre ciência, universo, antiguidades, e praticamente tudo que der na telha. Ainda me considero como engatinhando na programção mas tenho muita garra, vontade de aprender e sou muito comunicativo, se quiser fique a vontade em me contatar para batermos um papo.
 
 ---
 
@@ -48,18 +49,5 @@ Sou apaixonado por tecnologia, games e cultura pop. Além de codificar, curto as
 ---
 
 <!-- Seção extra para referências visuais inspiradoras -->
-### 🕹️ Minhas Inspirações Visuais
-<div align="center">
-  <img src="https://i.imgur.com/seuExemplo1.png" alt="Visual Cyberpunk 1" width="250px" style="border-radius: 8px;">
-  <img src="https://i.imgur.com/seuExemplo2.png" alt="Visual Cyberpunk 2" width="250px" style="border-radius: 8px;">
-</div>
-<p align="center">
-  *Exemplos de arte e design que me inspiram e influenciam o meu trabalho.*
-</p>
 
----
 
-<!-- Rodapé personalizado -->
-<div align="center">
-  <sub>Desenvolvido por Lucino De Campos. "Keep coding, keep dreaming!"</sub>
-</div>

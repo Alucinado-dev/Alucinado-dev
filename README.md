@@ -75,7 +75,7 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
 
 ---
 
-###  [**🚀 Meu Portifólio**](https://alucinado-dev.vercel.app) <img width='50px' height='50px' src='/img/ALucin4do-logo.png'>
+###                                [**🚀 Meu Portifólio**](https://alucinado-dev.vercel.app) <img width='30px' height='30px' src='/img/ALucin4do-logo.png'>
 
 
 

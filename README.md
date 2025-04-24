@@ -52,11 +52,8 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alucinado-dev/Alucinado-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alucinado-dev/Alucinado-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alucinado-dev/Alucinado-dev/output/pacman-contribution-graph.svg">
-</picture>
+<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github" 
+    width="800" height="600" frameborder="0"></iframe>
 
 ###
 
@@ -75,7 +72,7 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
 
 ---
 
-###                                [**🚀 Meu Portifólio**](https://alucinado-dev.vercel.app) <img width='30px' height='30px' src='/img/ALucin4do-logo.png'>
+###  <img width='30px' height='30px' src='/img/ALucin4do-logo.png'> [** Meu Portifólio**](https://alucinado-dev.vercel.app)
 
 
 

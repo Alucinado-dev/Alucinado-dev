@@ -57,9 +57,9 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alucinado-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Alucinado-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alucinado-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alucinado-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Alucinado-dev&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alucinado-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=neon&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alucinado-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -71,6 +71,9 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
 
 ---
 
+![My recently played songs](https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count={10}&width={1000})
+
+---
 ###  <img width='30px' height='30px' src='/img/ALucin4do-logo.png'> [ Meu Portifólio](https://alucinado-dev.vercel.app)
 
 

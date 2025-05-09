@@ -50,7 +50,12 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
 
 ###
 
-<img src="https://pacman.abozanona.me?username=Alucinado-dev" />
+<!-- <img src="https://pacman.abozanona.me?username=Alucinado-dev" /> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alucinado-dev/Alucinado-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alucinado-dev/Alucinado-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alucinado-dev/Alucinado-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -67,12 +72,19 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
   <img src="https://profile-counter.glitch.me/Alucinado-dev/count.svg?"  />
 </div>
 
----
 
-[My recently played songs](https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count={8})
+###
 
----
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count={8}" alt="Spotify recently played"  />
+</div>
+
+
 ###  <img width='30px' height='30px' src='/img/ALucin4do-logo.png'> [Meu Portifólio](https://alucinado-dev.vercel.app)
+
+
+
+
 
 
 

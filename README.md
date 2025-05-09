@@ -27,9 +27,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="/img/emily-in-the-cyberpunk-city_800.gif"  />
-</div>
+![cute gif](/img/emily-in-the-cyberpunk-city_800.gif)
 
 ###
 
@@ -71,10 +69,10 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
 
 ---
 
-![My recently played songs](https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count={10})
+[My recently played songs](https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count={10})
 
 ---
-###  <img width='30px' height='30px' src='/img/ALucin4do-logo.png'> [ Meu Portifólio](https://alucinado-dev.vercel.app)
+###  <img width='30px' height='30px' src='/img/ALucin4do-logo.png'> [Meu Portifólio](https://alucinado-dev.vercel.app)
 
 
 
